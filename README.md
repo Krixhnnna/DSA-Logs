@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Krixhnnna?theme=catppuccinMocha&font=Noto%20Sans%20Buginese&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Krixhnnna?theme=dark&font=Noto%20Sans%20Buginese)
